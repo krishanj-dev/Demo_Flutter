@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: .fromSeed(seedColor: const Color.fromARGB(255, 58, 183, 89)),
       ),
-      home: const MyHomePage(title: 'Flutter testing2'),
+      home: const MyHomePage(title: 'Flutter testing3'),
     );
   }
 }
